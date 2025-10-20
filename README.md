@@ -1,14 +1,18 @@
 ## ⚙️ 1. Preparar o ambiente
 bash
 git clone https://github.com/spring-petclinic/spring-petclinic-microservices.git
+
 cd spring-petclinic-microservices
+
 docker compose up -d
 
 
 ## 🚀 2. Executar testes
 bash
 ./run_leve.sh   # Cenário A - 50 usuários, 10min
+
 ./run_medio.sh  # Cenário B - 100 usuários, 10min
+
 ./run_pico.sh   # Cenário C - 200 usuários, 5min
 
 

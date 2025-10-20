@@ -34,6 +34,6 @@ spring-petclinic-benchmark/
 ├── requirements.txt
 └── README.md
 
-### Popular banco com dados:
+### 👥​ Popular banco com dados:
 bash
 ./populate_data.sh

@@ -26,17 +26,6 @@ Exemplo de resumo (planilha):
 | Médio    | 100       | 10 min   | 215          | 790          | 82.1   | 49.000      | 12     | 99.7%       |
 | Pico     | 200       | 5 min    | 490          | 1400         | 95.5   | 28.600      | 320    | 98.8%       |
 
-## 📂 Estrutura
-
-spring-petclinic-benchmark/
-├── locustfile.py
-├── run_leve.sh
-├── run_medio.sh
-├── run_pico.sh
-├── results/
-│   └── resumo_planilha.xlsx
-├── requirements.txt
-└── README.md
 
 ### 👥​ Popular banco com dados:
 bash
